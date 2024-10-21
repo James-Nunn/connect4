@@ -1,0 +1,14 @@
+/Users/james/Desktop/Connect4/bin/Debug/net8.0/Connect4
+/Users/james/Desktop/Connect4/bin/Debug/net8.0/Connect4.deps.json
+/Users/james/Desktop/Connect4/bin/Debug/net8.0/Connect4.runtimeconfig.json
+/Users/james/Desktop/Connect4/bin/Debug/net8.0/Connect4.dll
+/Users/james/Desktop/Connect4/bin/Debug/net8.0/Connect4.pdb
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/Connect4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/Connect4.AssemblyInfoInputs.cache
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/Connect4.AssemblyInfo.cs
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/Connect4.csproj.CoreCompileInputs.cache
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/Connect4.dll
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/refint/Connect4.dll
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/Connect4.pdb
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/Connect4.genruntimeconfig.cache
+/Users/james/Desktop/Connect4/obj/Debug/net8.0/ref/Connect4.dll
